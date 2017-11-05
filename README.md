@@ -1,4 +1,4 @@
-#Musical Pitch Detection Matlab GUI
+# Musical Pitch Detection Matlab GUI
 <div dir="ltr">
 <div>This is the matlab code I wrote for my Bachelor Thesis (Musical Pitch Detection). Previously, I uploaded it on mathworks website and now it is exactly on github.</div>
 <div>&nbsp;</div>
