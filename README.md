@@ -1,3 +1,4 @@
+#Musical Pitch Detection Matlab GUI
 <div dir="ltr">
 <div>This is the matlab code I wrote for my Bachelor Thesis (Musical Pitch Detection). Previously, I uploaded it on mathworks website and now it is exactly on github.</div>
 <div>&nbsp;</div>
@@ -20,3 +21,5 @@ Samples with and without peak:</div>
 <div>&nbsp;</div>
 <h4><strong>How To Run</strong></h4>
 <p>Download all files or just zip file. Extract. In their directory:<br />to run, type in command window: pitch&nbsp;<br />(don't run the GUI file)</p>
+
+link in mathworks: https://www.mathworks.com/matlabcentral/fileexchange/47277-pitch-detection?s_tid=prof_contriblnk
